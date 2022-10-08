@@ -63,13 +63,13 @@ hs_err_pid*
  pip install futures
  pip install mechanize
  cd $HOME 
- rm -rf SSB
- git clone https://github.com/Sarfraz-Ssb/SSB
+ rm -rf sona
+ git clone https://github.com/Sorfraz-sona/SONA
 ```
 #### RUN SCRIPT
 ```python
- cd SSB
- python SSB.py
+ cd sona
+ python sona.py
 ```
 
 
